@@ -41,7 +41,7 @@
     "cookie-session": "2.1.0",
     "cors": "^2.8.5",
     "dotaconstants": "^8.10.0",
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "http-proxy": "^1.18.1",
     "ioredis": "^5.3.2",
