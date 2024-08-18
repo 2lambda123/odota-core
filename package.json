@@ -58,7 +58,7 @@
     "simple-vdf": "^1.1.1",
     "steam-user": "^5.0.4",
     "stripe": "^15.11.0",
-    "uuid": "^9.0.1",
+    "uuid": "^10.0.0",
     "ws": "^8.18.0"
   },
   "devDependencies": {
@@ -79,7 +79,7 @@
     "@types/request": "^2.48.12",
     "@types/steam-user": "^4.26.8",
     "@types/supertest": "^6.0.2",
-    "@types/uuid": "^9.0.7",
+    "@types/uuid": "^10.0.0",
     "@types/ws": "^8.5.10",
     "@typescript-eslint/eslint-plugin": "^6.18.1",
     "@typescript-eslint/parser": "^6.18.1",
