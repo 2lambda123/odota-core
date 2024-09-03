@@ -56,7 +56,7 @@
     "protobufjs": "^7.4.0",
     "request": "^2.88.2",
     "simple-vdf": "^1.1.1",
-    "steam-user": "^5.0.10",
+    "steam-user": "^5.2.0",
     "stripe": "^16.9.0",
     "uuid": "^10.0.0",
     "ws": "^8.18.0"
