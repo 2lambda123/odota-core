@@ -71,7 +71,7 @@
     "@types/express": "^5.0.0",
     "@types/http-proxy": "^1.17.15",
     "@types/json-bigint": "^1.0.4",
-    "@types/mocha": "^10.0.9",
+    "@types/mocha": "^10.0.10",
     "@types/passport": "^1.0.17",
     "@types/passport-steam": "^1.0.6",
     "@types/pg": "^8.11.10",
