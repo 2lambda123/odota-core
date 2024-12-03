@@ -84,7 +84,7 @@
     "@typescript-eslint/eslint-plugin": "^8.16.0",
     "@typescript-eslint/parser": "^8.16.0",
     "eslint": "^9.16.0",
-    "mocha": "^10.8.2",
+    "mocha": "^11.0.1",
     "pm2": "^5.4.3",
     "prettier": "^3.4.1",
     "supertest": "^7.0.0",
