@@ -86,7 +86,7 @@
     "eslint": "^9.16.0",
     "mocha": "^11.0.1",
     "pm2": "^5.4.3",
-    "prettier": "^3.4.1",
+    "prettier": "^3.4.2",
     "supertest": "^7.0.0",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2"
