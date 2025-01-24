@@ -74,7 +74,7 @@
     "@types/mocha": "^10.0.10",
     "@types/passport": "^1.0.17",
     "@types/passport-steam": "^1.0.6",
-    "@types/pg": "^8.11.10",
+    "@types/pg": "^8.11.11",
     "@types/qs": "^6.9.18",
     "@types/request": "^2.48.12",
     "@types/steam-user": "^5.0.4",
