@@ -81,7 +81,7 @@
     "@types/supertest": "^6.0.2",
     "@types/uuid": "^10.0.0",
     "@types/ws": "^8.5.14",
-    "@typescript-eslint/eslint-plugin": "^8.21.0",
+    "@typescript-eslint/eslint-plugin": "^8.22.0",
     "@typescript-eslint/parser": "^8.22.0",
     "eslint": "^9.18.0",
     "mocha": "^11.0.1",
