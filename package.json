@@ -82,7 +82,7 @@
     "@types/uuid": "^10.0.0",
     "@types/ws": "^8.5.14",
     "@typescript-eslint/eslint-plugin": "^8.23.0",
-    "@typescript-eslint/parser": "^8.23.0",
+    "@typescript-eslint/parser": "^8.24.0",
     "eslint": "^9.19.0",
     "mocha": "^11.1.0",
     "pm2": "^5.4.3",
