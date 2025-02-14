@@ -52,7 +52,7 @@
     "passport": "^0.7.0",
     "passport-steam": "^1.0.18",
     "pg": "^8.13.1",
-    "pg-query-stream": "^4.7.1",
+    "pg-query-stream": "^4.7.3",
     "protobufjs": "^7.4.0",
     "request": "^2.88.2",
     "simple-vdf": "^1.1.1",
