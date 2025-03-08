@@ -89,6 +89,6 @@
     "prettier": "^3.5.2",
     "supertest": "^7.0.0",
     "tsx": "^4.19.2",
-    "typescript": "^5.7.3"
+    "typescript": "^5.8.2"
   }
 }
