@@ -83,7 +83,7 @@
     "@types/ws": "^8.18.0",
     "@typescript-eslint/eslint-plugin": "^8.28.0",
     "@typescript-eslint/parser": "^8.28.0",
-    "eslint": "^9.22.0",
+    "eslint": "^9.23.0",
     "mocha": "^11.1.0",
     "pm2": "^5.4.3",
     "prettier": "^3.5.3",
